@@ -7,7 +7,7 @@ https://ccre.shinyapps.io/automatedsurveyanalyzer/
 
 ## Overview
 
-Welcome to the Automated Survey Analyzer Program! This tool is designed to quickly process and analyze survey data (or similar datasets), providing:
+Welcome to the Automated Survey Analyzer! This tool is designed to quickly process and analyze survey data (or similar datasets), providing:
 
 - Frequencies
 - Percentages
